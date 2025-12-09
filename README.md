@@ -68,7 +68,7 @@
 ```bash
 # 1. Клонируем репозиторий
 git clone https://github.com/1vlex/Celebrity_Detection.git
-cd <имя_папки_репозитория>
+cd Celebrity_Detection
 
 # 2. (опционально) создаём виртуальное окружение
 python -m venv .venv
