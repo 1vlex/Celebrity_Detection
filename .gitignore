@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python кеш
+__pycache__/
+*.pyc
+
+# macOS всякий мусор
+.DS_Store
+
+# Автогенерируемые данные пайплайна 
+raw/
+fragments/
+frames/
+crops/
+meta/
+
+# Архивы датасетов
+*.zip
+
