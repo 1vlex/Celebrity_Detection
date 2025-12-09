@@ -1,0 +1,14 @@
+jupyter
+numpy
+pandas
+matplotlib
+tqdm
+opencv-python-headless
+insightface
+onnxruntime-gpu
+umap-learn
+scikit-learn
+python-slugify
+yt-dlp
+datasets
+huggingface_hub
